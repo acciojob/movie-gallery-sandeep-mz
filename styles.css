@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+
+.gallery-row {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+     
+    }
+    
+    .gallery-col {
+      display: flex;
+      
+		
+    }
+    
+    .gallery-img {
+      max-width: 100px;
+      max-height: 100px;
+    }
